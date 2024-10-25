@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+}
+.index-page {
+    text-align: center;
+}
+#start {
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+.button {
+    padding: 0px;
+    width: 20px;
+    height: 20px;
+    display: inline;
+}
+.item-list {
+    margin: 30px;
+    list-style-type: none;
+}
+.display {
+    margin-right: 10px;
+}
+.count {
+    color: blue;
+}
+#divBox {
+    margin: auto;
+    text-align: left;
+    width: 33%;
+    border: 1px solid black;
+}
+.add {
+}
+.remove {
+}
+ul {
+    /* list-style-type: none; */
+}
